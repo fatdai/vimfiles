@@ -1,3 +1,4 @@
+" Hello Git!!!
 " General "{{{
 set nocompatible               " be iMproved
 
